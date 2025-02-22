@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> KHABIB NOELS👻👾 </h1>
 <h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.2.5 </h1>
 
 <p align="center">
@@ -76,8 +76,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/CypherX
-cd CypherX
+git clone https://github.com/<your-gitHub-Username>/KHABIB NOELS
+cd KHABIB NOELS
 npm install
 npm start
 ```
